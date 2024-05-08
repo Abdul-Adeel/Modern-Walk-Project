@@ -1,0 +1,26 @@
+.subHeading{
+    font-size: medium;
+    margin: 10px;
+}
+.heading{
+    text-align: center;
+    margin:0%;
+    cursor: pointer;
+}
+.button1,
+.button2{
+    border-radius: 30px;
+    height:170px;
+    width: 500px;
+    font-size:x-large;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button1{
+    Margin:10px;
+    margin-left: 72px;
+    background-color: #1affc6;
+}
+.button2{
+    background-color:#ff6680;
+}
